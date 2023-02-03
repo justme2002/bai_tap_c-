@@ -1,0 +1,15 @@
+D:\internship\training\c#\bt\bai_4\bin\Debug\net6.0\bai_4.exe
+D:\internship\training\c#\bt\bai_4\bin\Debug\net6.0\bai_4.deps.json
+D:\internship\training\c#\bt\bai_4\bin\Debug\net6.0\bai_4.runtimeconfig.json
+D:\internship\training\c#\bt\bai_4\bin\Debug\net6.0\bai_4.dll
+D:\internship\training\c#\bt\bai_4\bin\Debug\net6.0\bai_4.pdb
+D:\internship\training\c#\bt\bai_4\obj\Debug\net6.0\bai_4.csproj.AssemblyReference.cache
+D:\internship\training\c#\bt\bai_4\obj\Debug\net6.0\bai_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship\training\c#\bt\bai_4\obj\Debug\net6.0\bai_4.AssemblyInfoInputs.cache
+D:\internship\training\c#\bt\bai_4\obj\Debug\net6.0\bai_4.AssemblyInfo.cs
+D:\internship\training\c#\bt\bai_4\obj\Debug\net6.0\bai_4.csproj.CoreCompileInputs.cache
+D:\internship\training\c#\bt\bai_4\obj\Debug\net6.0\bai_4.dll
+D:\internship\training\c#\bt\bai_4\obj\Debug\net6.0\refint\bai_4.dll
+D:\internship\training\c#\bt\bai_4\obj\Debug\net6.0\bai_4.pdb
+D:\internship\training\c#\bt\bai_4\obj\Debug\net6.0\bai_4.genruntimeconfig.cache
+D:\internship\training\c#\bt\bai_4\obj\Debug\net6.0\ref\bai_4.dll
